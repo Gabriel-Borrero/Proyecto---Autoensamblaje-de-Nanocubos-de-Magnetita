@@ -1,0 +1,21 @@
+{
+ "tag": "prueba",
+ "N": 180,
+ "width": 3,
+ "length": 20,
+ "double": false,
+ "arrangement": "110",
+ "field": 417.0,
+ "vdw_scale": 2.5,
+ "dd_scale": 1.0,
+ "cycles": 100,
+ "hours": 0.006542062560717265,
+ "twist_deg": 15.894259028020356,
+ "twist_rate": 0.05115870396699222,
+ "pitch_nm": 7036.9257249416105,
+ "handedness": 0,
+ "width_nm": 30.188389637957318,
+ "coil_nm": 0.3289378756588877,
+ "max_cluster": 180,
+ "assembled": 1.0
+}

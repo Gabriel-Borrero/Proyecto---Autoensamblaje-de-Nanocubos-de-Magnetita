@@ -1,0 +1,21 @@
+{
+ "tag": "prod_110_w3x3_H417_v2_dd1",
+ "N": 540,
+ "width": 3,
+ "length": 60,
+ "double": false,
+ "arrangement": "110",
+ "field": 417.0,
+ "vdw_scale": 2.0,
+ "dd_scale": 1.0,
+ "cycles": 23500,
+ "hours": 16.352947297493618,
+ "twist_deg": -74.54456147697456,
+ "twist_rate": -0.07724792140820959,
+ "pitch_nm": 4660.319571546953,
+ "handedness": -1,
+ "width_nm": 29.923000716688477,
+ "coil_nm": 2.571768104611069,
+ "max_cluster": 540,
+ "assembled": 1.0
+}

@@ -1,0 +1,6 @@
+[w4_L14_H668] N=56  H=668.0 G  vdw_scale=0.5  ciclos=700
+  ciclo      0  Eall=  -6.252 Emag=  -4.222 <Mz>=0.148
+  ciclo    200  Eall= -20.429 Emag= -19.206 <Mz>=0.955
+  ciclo    400  Eall= -20.626 Emag= -19.261 <Mz>=0.954
+  ciclo    600  Eall= -20.894 Emag= -19.506 <Mz>=0.961
+[w4_L14_H668] listo en 57 s  torsion final = -0.9 deg, radio = 6.86 nm

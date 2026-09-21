@@ -1,0 +1,11 @@
+{
+ "tag": "prod_soft_2x2_H417_v1",
+ "torsion_total_deg": -68.9,
+ "torsion_deg_por_nm": -0.0708,
+ "paso_nm": 5084.5,
+ "quiralidad": "izquierda",
+ "ancho_nm": 21.2,
+ "superenrollamiento_nm": 3.88,
+ "cluster_max": 240,
+ "vueltas": 0.19
+}

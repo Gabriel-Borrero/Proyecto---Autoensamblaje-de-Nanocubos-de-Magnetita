@@ -1,0 +1,21 @@
+{
+ "tag": "prod_110_w2x2d_H417_v2.5_dd1.5",
+ "N": 640,
+ "width": 2,
+ "length": 80,
+ "double": true,
+ "arrangement": "110",
+ "field": 417.0,
+ "vdw_scale": 2.5,
+ "dd_scale": 1.5,
+ "cycles": 25000,
+ "hours": 7.3356270489427775,
+ "twist_deg": 24.15361155728001,
+ "twist_rate": 0.018716141623366465,
+ "pitch_nm": 19234.73369909492,
+ "handedness": 1,
+ "width_nm": 41.460265691557034,
+ "coil_nm": 1.9075084650709824,
+ "max_cluster": 640,
+ "assembled": 1.0
+}

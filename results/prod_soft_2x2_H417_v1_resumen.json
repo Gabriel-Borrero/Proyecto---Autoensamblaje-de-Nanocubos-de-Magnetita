@@ -1,0 +1,21 @@
+{
+ "tag": "prod_soft_2x2_H417_v1",
+ "N": 240,
+ "width": 2,
+ "length": 60,
+ "double": false,
+ "arrangement": "110",
+ "field": 417.0,
+ "vdw_scale": 1.0,
+ "dd_scale": 1.0,
+ "cycles": 23500,
+ "hours": 3.4457276233037315,
+ "twist_deg": -68.87392780254649,
+ "twist_rate": -0.07080314332360566,
+ "pitch_nm": 5084.520024126903,
+ "handedness": -1,
+ "width_nm": 21.240193601855236,
+ "coil_nm": 3.8806050682446003,
+ "max_cluster": 240,
+ "assembled": 1.0
+}

@@ -1,0 +1,21 @@
+{
+ "tag": "prod_110_w3x3_H668_v2.5_dd1",
+ "N": 540,
+ "width": 3,
+ "length": 60,
+ "double": false,
+ "arrangement": "110",
+ "field": 668.0,
+ "vdw_scale": 2.5,
+ "dd_scale": 1.0,
+ "cycles": 23500,
+ "hours": 16.42216784523593,
+ "twist_deg": 0.9031990956500592,
+ "twist_rate": 0.00093496041588407,
+ "pitch_nm": 385043.0391318706,
+ "handedness": 0,
+ "width_nm": 29.892568627250217,
+ "coil_nm": 1.2131253631416048,
+ "max_cluster": 540,
+ "assembled": 1.0
+}

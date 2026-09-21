@@ -1,0 +1,11 @@
+{
+ "tag": "prod_soft_2x2_H100_v1",
+ "torsion_total_deg": 162.6,
+ "torsion_deg_por_nm": 0.1688,
+ "paso_nm": 2132.2,
+ "quiralidad": "derecha",
+ "ancho_nm": 20.3,
+ "superenrollamiento_nm": 4.91,
+ "cluster_max": 240,
+ "vueltas": 0.45
+}

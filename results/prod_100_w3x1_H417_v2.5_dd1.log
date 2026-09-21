@@ -1,0 +1,69 @@
+[prod_100_w3x1_H417_v2.5_dd1] N=300  belt_100  H=417 G  vdw_scale=2.5  dd_scale=1.0  ciclos=23500  (una hebra)
+  ciclo      0/23500  Eall=  -16.74  <Mz>=0.337  torsion=     0.7 deg (+0.000 deg/nm)  acc=0.22  t=0.00 h  ETA=5.40 h
+  ciclo    500/23500  Eall=  -27.68  <Mz>=0.955  torsion=    62.4 deg (+0.039 deg/nm)  acc=0.43  t=0.07 h  ETA=3.03 h
+  ciclo   1000/23500  Eall=  -28.88  <Mz>=0.962  torsion=    80.7 deg (+0.050 deg/nm)  acc=0.46  t=0.11 h  ETA=2.55 h
+  ciclo   1500/23500  Eall=  -29.30  <Mz>=0.961  torsion=    80.0 deg (+0.049 deg/nm)  acc=0.48  t=0.16 h  ETA=2.37 h
+  ciclo   2000/23500  Eall=  -29.83  <Mz>=0.961  torsion=    76.7 deg (+0.047 deg/nm)  acc=0.48  t=0.21 h  ETA=2.27 h
+  ciclo   2500/23500  Eall=  -30.51  <Mz>=0.957  torsion=    74.8 deg (+0.046 deg/nm)  acc=0.48  t=0.26 h  ETA=2.19 h
+  ciclo   3000/23500  Eall=  -30.82  <Mz>=0.958  torsion=    35.1 deg (+0.022 deg/nm)  acc=0.47  t=0.31 h  ETA=2.12 h
+  ciclo   3500/23500  Eall=  -31.17  <Mz>=0.960  torsion=    76.4 deg (+0.047 deg/nm)  acc=0.47  t=0.36 h  ETA=2.07 h
+  ciclo   4000/23500  Eall=  -31.59  <Mz>=0.962  torsion=    53.6 deg (+0.033 deg/nm)  acc=0.46  t=0.41 h  ETA=2.01 h
+  ciclo   4500/23500  Eall=  -31.66  <Mz>=0.960  torsion=    63.9 deg (+0.040 deg/nm)  acc=0.45  t=0.47 h  ETA=1.96 h
+  ciclo   5000/23500  Eall=  -31.88  <Mz>=0.963  torsion=    64.2 deg (+0.040 deg/nm)  acc=0.45  t=0.52 h  ETA=1.91 h
+  ciclo   5500/23500  Eall=  -31.92  <Mz>=0.957  torsion=    57.1 deg (+0.035 deg/nm)  acc=0.45  t=0.57 h  ETA=1.86 h
+  ciclo   6000/23500  Eall=  -32.14  <Mz>=0.966  torsion=    59.3 deg (+0.037 deg/nm)  acc=0.44  t=0.62 h  ETA=1.81 h
+  ciclo   6500/23500  Eall=  -32.32  <Mz>=0.959  torsion=    57.1 deg (+0.035 deg/nm)  acc=0.44  t=0.67 h  ETA=1.76 h
+  ciclo   7000/23500  Eall=  -32.36  <Mz>=0.961  torsion=    79.4 deg (+0.049 deg/nm)  acc=0.44  t=0.73 h  ETA=1.71 h
+  ciclo   7500/23500  Eall=  -32.60  <Mz>=0.963  torsion=    58.6 deg (+0.037 deg/nm)  acc=0.44  t=0.78 h  ETA=1.66 h
+  ciclo   8000/23500  Eall=  -32.87  <Mz>=0.962  torsion=    78.6 deg (+0.049 deg/nm)  acc=0.43  t=0.83 h  ETA=1.62 h
+  ciclo   8500/23500  Eall=  -32.80  <Mz>=0.960  torsion=    77.6 deg (+0.048 deg/nm)  acc=0.43  t=0.89 h  ETA=1.57 h
+  ciclo   9000/23500  Eall=  -33.20  <Mz>=0.959  torsion=    77.1 deg (+0.048 deg/nm)  acc=0.43  t=0.94 h  ETA=1.52 h
+  ciclo   9500/23500  Eall=  -33.03  <Mz>=0.960  torsion=    56.9 deg (+0.035 deg/nm)  acc=0.43  t=1.00 h  ETA=1.47 h
+  ciclo  10000/23500  Eall=  -33.26  <Mz>=0.964  torsion=    56.7 deg (+0.035 deg/nm)  acc=0.43  t=1.05 h  ETA=1.42 h
+  ciclo  10500/23500  Eall=  -33.42  <Mz>=0.961  torsion=    56.2 deg (+0.035 deg/nm)  acc=0.43  t=1.11 h  ETA=1.37 h
+  ciclo  11000/23500  Eall=  -33.52  <Mz>=0.959  torsion=    55.8 deg (+0.035 deg/nm)  acc=0.43  t=1.16 h  ETA=1.32 h
+  ciclo  11500/23500  Eall=  -33.51  <Mz>=0.962  torsion=    52.0 deg (+0.032 deg/nm)  acc=0.43  t=1.22 h  ETA=1.27 h
+  ciclo  12000/23500  Eall=  -33.55  <Mz>=0.960  torsion=    52.5 deg (+0.032 deg/nm)  acc=0.43  t=1.27 h  ETA=1.22 h
+  ciclo  12500/23500  Eall=  -33.70  <Mz>=0.961  torsion=    63.3 deg (+0.039 deg/nm)  acc=0.43  t=1.33 h  ETA=1.17 h
+  ciclo  13000/23500  Eall=  -33.61  <Mz>=0.960  torsion=    62.5 deg (+0.039 deg/nm)  acc=0.43  t=1.38 h  ETA=1.12 h
+  ciclo  13500/23500  Eall=  -33.91  <Mz>=0.963  torsion=    51.7 deg (+0.032 deg/nm)  acc=0.43  t=1.44 h  ETA=1.06 h
+  ciclo  14000/23500  Eall=  -33.95  <Mz>=0.957  torsion=    42.6 deg (+0.026 deg/nm)  acc=0.43  t=1.49 h  ETA=1.01 h
+  ciclo  14500/23500  Eall=  -34.06  <Mz>=0.955  torsion=    40.4 deg (+0.025 deg/nm)  acc=0.43  t=1.55 h  ETA=0.96 h
+  ciclo  15000/23500  Eall=  -34.12  <Mz>=0.963  torsion=    38.8 deg (+0.024 deg/nm)  acc=0.43  t=1.61 h  ETA=0.91 h
+  ciclo  15500/23500  Eall=  -34.19  <Mz>=0.959  torsion=    40.7 deg (+0.025 deg/nm)  acc=0.44  t=1.66 h  ETA=0.86 h
+  ciclo  16000/23500  Eall=  -34.32  <Mz>=0.958  torsion=    39.8 deg (+0.025 deg/nm)  acc=0.44  t=1.72 h  ETA=0.81 h
+  ciclo  16500/23500  Eall=  -34.32  <Mz>=0.959  torsion=    37.5 deg (+0.023 deg/nm)  acc=0.44  t=1.77 h  ETA=0.75 h
+  ciclo  17000/23500  Eall=  -34.51  <Mz>=0.963  torsion=    36.2 deg (+0.022 deg/nm)  acc=0.44  t=1.83 h  ETA=0.70 h
+  ciclo  17500/23500  Eall=  -34.48  <Mz>=0.962  torsion=    62.2 deg (+0.038 deg/nm)  acc=0.44  t=1.89 h  ETA=0.65 h
+  ciclo  18000/23500  Eall=  -34.65  <Mz>=0.959  torsion=    63.2 deg (+0.039 deg/nm)  acc=0.44  t=1.94 h  ETA=0.59 h
+  ciclo  18500/23500  Eall=  -34.62  <Mz>=0.961  torsion=    64.1 deg (+0.040 deg/nm)  acc=0.44  t=2.00 h  ETA=0.54 h
+  ciclo  19000/23500  Eall=  -34.84  <Mz>=0.960  torsion=    63.7 deg (+0.039 deg/nm)  acc=0.45  t=2.06 h  ETA=0.49 h
+  ciclo  19500/23500  Eall=  -34.69  <Mz>=0.961  torsion=    61.8 deg (+0.038 deg/nm)  acc=0.45  t=2.12 h  ETA=0.43 h
+  ciclo  20000/23500  Eall=  -34.89  <Mz>=0.962  torsion=    63.8 deg (+0.039 deg/nm)  acc=0.45  t=2.18 h  ETA=0.38 h
+  ciclo  20500/23500  Eall=  -34.88  <Mz>=0.958  torsion=    61.8 deg (+0.038 deg/nm)  acc=0.45  t=2.23 h  ETA=0.33 h
+  ciclo  21000/23500  Eall=  -34.98  <Mz>=0.960  torsion=    35.0 deg (+0.022 deg/nm)  acc=0.45  t=2.29 h  ETA=0.27 h
+  ciclo  21500/23500  Eall=  -35.15  <Mz>=0.963  torsion=    62.2 deg (+0.038 deg/nm)  acc=0.45  t=2.35 h  ETA=0.22 h
+  ciclo  22000/23500  Eall=  -35.35  <Mz>=0.960  torsion=    58.1 deg (+0.036 deg/nm)  acc=0.45  t=2.41 h  ETA=0.16 h
+  ciclo  22500/23500  Eall=  -35.48  <Mz>=0.963  torsion=    58.0 deg (+0.036 deg/nm)  acc=0.45  t=2.47 h  ETA=0.11 h
+  ciclo  23000/23500  Eall=  -35.78  <Mz>=0.959  torsion=    57.7 deg (+0.036 deg/nm)  acc=0.45  t=2.52 h  ETA=0.05 h
+{
+ "tag": "prod_100_w3x1_H417_v2.5_dd1",
+ "N": 300,
+ "width": 3,
+ "length": 100,
+ "double": false,
+ "arrangement": "100",
+ "field": 417.0,
+ "vdw_scale": 2.5,
+ "dd_scale": 1.0,
+ "cycles": 23500,
+ "hours": 2.5813847577571867,
+ "twist_deg": 34.8725746555227,
+ "twist_rate": 0.02152620840718916,
+ "pitch_nm": 16723.799806740233,
+ "handedness": 1,
+ "width_nm": 28.00051596670166,
+ "coil_nm": 3.2160894786025787,
+ "max_cluster": 300,
+ "assembled": 1.0
+}

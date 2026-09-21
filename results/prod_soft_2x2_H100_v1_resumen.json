@@ -1,0 +1,21 @@
+{
+ "tag": "prod_soft_2x2_H100_v1",
+ "N": 240,
+ "width": 2,
+ "length": 60,
+ "double": false,
+ "arrangement": "110",
+ "field": 100.0,
+ "vdw_scale": 1.0,
+ "dd_scale": 1.0,
+ "cycles": 23500,
+ "hours": 3.4267698899904886,
+ "twist_deg": 162.64498942720115,
+ "twist_rate": 0.16883933315657584,
+ "pitch_nm": 2132.2045833132274,
+ "handedness": 1,
+ "width_nm": 20.272461841860316,
+ "coil_nm": 4.905213204622095,
+ "max_cluster": 240,
+ "assembled": 1.0
+}

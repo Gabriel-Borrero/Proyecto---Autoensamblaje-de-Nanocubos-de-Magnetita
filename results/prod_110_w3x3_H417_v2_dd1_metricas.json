@@ -1,0 +1,11 @@
+{
+ "tag": "prod_110_w3x3_H417_v2_dd1",
+ "torsion_total_deg": -74.5,
+ "torsion_deg_por_nm": -0.0772,
+ "paso_nm": 4660.3,
+ "quiralidad": "izquierda",
+ "ancho_nm": 29.9,
+ "superenrollamiento_nm": 2.57,
+ "cluster_max": 540,
+ "vueltas": 0.21
+}
