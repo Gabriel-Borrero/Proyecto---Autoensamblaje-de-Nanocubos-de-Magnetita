@@ -1,0 +1,21 @@
+{
+ "tag": "prod_soft_3x3_H417_v1",
+ "N": 540,
+ "width": 3,
+ "length": 60,
+ "double": false,
+ "arrangement": "110",
+ "field": 417.0,
+ "vdw_scale": 1.0,
+ "dd_scale": 1.0,
+ "cycles": 23500,
+ "hours": 7.704058738880687,
+ "twist_deg": -7.659785244120316,
+ "twist_rate": -0.007899893241032628,
+ "pitch_nm": 45570.23607991732,
+ "handedness": 0,
+ "width_nm": 30.545471275646367,
+ "coil_nm": 6.152037879885769,
+ "max_cluster": 540,
+ "assembled": 1.0
+}

@@ -1,0 +1,21 @@
+{
+ "tag": "prod_soft_3x3_H167_v1",
+ "N": 540,
+ "width": 3,
+ "length": 60,
+ "double": false,
+ "arrangement": "110",
+ "field": 167.0,
+ "vdw_scale": 1.0,
+ "dd_scale": 1.0,
+ "cycles": 23500,
+ "hours": 7.816267200774616,
+ "twist_deg": -217.84347612674256,
+ "twist_rate": -0.22703947167295707,
+ "pitch_nm": 1585.6273684364814,
+ "handedness": -1,
+ "width_nm": 30.784869578086823,
+ "coil_nm": 6.444980928852217,
+ "max_cluster": 540,
+ "assembled": 1.0
+}
